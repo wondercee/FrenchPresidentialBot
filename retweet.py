@@ -4,10 +4,10 @@ import tweepy
 import time
 
 # Authentication
-consumer_key="mPfu2lmfwbVnS8JCzCLhJKGwQ"
-consumer_secret="MbSLQQmZDukRUoYe48mrW0i3ZfF23mccqOnH2Saxa1BtJn0M8d"
-access_token="844581311000035328-dCEi5eKIsmcukTP8qAYeml3QzPkMiGY"
-access_token_secret="4qLK9NhMV9uLvMRsNOLiFUUEI2HHOKjJQLvtRD0HjUZxh"
+consumer_key="..."
+consumer_secret="..."
+access_token="..."
+access_token_secret="..."
 
 # Connection to Twitter STREAM API
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
