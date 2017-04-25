@@ -6,10 +6,10 @@ import tweepy
 import csv
 
 # Twitter API credentials
-consumer_key="njF45n6yKYXnRbbPsDFDgC4k6"
-consumer_secret="w2Nhw0ZokrE5fIsWwk5EjHdbJV6RSh9qrm0CXTQB3IIBXq1aNk"
-access_key="844581311000035328-rrJrvXbnFzQ8eOMiK7ZP7KlBJugs3Hn"
-access_secret="Xj6BciI7N5MAWCECj4IdOn1RNVKeuce8qdZwJKZSh2Wsq"
+consumer_key="..."
+consumer_secret="..."
+access_key="..."
+access_secret="..."
 
 # Twitter only allows access to 3240 most recent tweets - will have to run script every week.
 def get_all_tweets(screen_name):
